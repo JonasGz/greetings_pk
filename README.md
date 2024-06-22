@@ -11,20 +11,20 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-TODO: Package Saudações.
+Package Saudações.
 
 ## Features
 
-TODO: Retorna as saudações: "Bom dia!", "Boa tarde!" e "Boa noite", com base nas horas passadas.
+Retorna as saudações: "Bom dia!", "Boa tarde!" e "Boa noite", com base nas horas passadas.
 Obs: essa primeira versão atende apenas horas passadas em localização que possua o formato horário de 24 horas.
 
 ## Getting started
 
-TODO: Apenas importar o package em seu projeto.
+Apenas importar o package em seu projeto.
 
 ## Usage
 
-TODO: Usage:
+Usage:
 
 ```dart
 
@@ -46,6 +46,4 @@ output: "Boa noite!";
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+

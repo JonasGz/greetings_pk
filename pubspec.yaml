@@ -1,7 +1,7 @@
 name: greeting
-description: "A new Flutter package project."
+description: "Package de saudações"
 version: 0.0.1
-homepage:
+repository: https://github.com/JonasGz/greetings_pk
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
